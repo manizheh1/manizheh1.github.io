@@ -6,11 +6,11 @@
     "email": "mzand@scu.edu",
     "phone": "(408) 123-4567",
     "url": "https://manizhehzand.com/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "summary": "My research focuses on Robotics, Machine Learning, Data Analysis, Multi-Sensory Systems, Human Factors, and User Interfaces. I develop inclusive assistive robots and autonomous systems to create safe human-robot collaboration environments. I collaborate across disciplines to design gender-inclusive AI, ensuring precise data collection and compliance with safety, privacy, and security standards. I also have strong communication, interpersonal, and management skills.",
     "location": {
-      "address": "2712 Broadway St",
+      "address": "500 El Camino Real",
       "postalCode": "CA 94115",
-      "city": "San Francisco",
+      "city": "Santa Clara",
       "countryCode": "US",
       "region": "California"
     },
@@ -24,13 +24,13 @@
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
+      "name": "Electerical and Computer Engineering, Santa Clara University",
+      "position": "Research Assistant",
+      "url": "https://manizhehzand.com",
       "startDate": "1933-01-01",
       "endDate": "1955-01-01",
       "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
+      "highlights": ["Human Robot Collaboration"]
     }
   ],
   "volunteer": [
