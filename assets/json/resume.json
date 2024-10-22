@@ -16,9 +16,9 @@
     },
     "profiles": [
       {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
+        "network": "LinkedIn",
+        "username": "manizheh",
+        "url": "https://www.linkedin.com/in/manizheh/"
       }
     ]
   },
@@ -27,9 +27,9 @@
       "name": "Electerical and Computer Engineering, Santa Clara University",
       "position": "Research Assistant",
       "url": "https://manizhehzand.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
+      "startDate": "2022-01-01",
+      "endDate": "2025-08-30",
+      "summary": " .",
       "highlights": ["Human Robot Collaboration"]
     }
   ],
