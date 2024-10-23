@@ -14,14 +14,14 @@
       year: 2025
       description:
         - Description 1.
-        - Description 2.        
+        - Description 2.
         - title: Description 3.
           contents:
             - Sub-description 1.
             - Sub-description 2.
-    - title: 
+    - title:
       institution: d
-      year: 
+      year:
       description:
         - Description 1.
         - Description 2.
@@ -29,8 +29,8 @@
 - title: Experience
   type: time_table
   contents:
-    - title: 
-      institution: 
+    - title:
+      institution:
       year: 1933 - 1955
       description:
         - Description 1.
@@ -39,25 +39,25 @@
           contents:
             - Sub-description 1.
             - Sub-description 2.
-    - title: 
-      institution: 
+    - title:
+      institution:
       year: 1933
       description:
         - Description 1.
         - Description 2.
 
-    - title: 
-      institution: 
-      year: 
+    - title:
+      institution:
+      year:
 
-    - title: 
-      institution: 
-      year: 
+    - title:
+      institution:
+      year:
       description:
 
-    - title: 
-      institution: 
-      year: 
+    - title:
+      institution:
+      year:
 
 - title: Open Source Projects
   type: time_table
@@ -69,13 +69,13 @@
 - title: Honors and Awards
   type: time_table
   contents:
-    - year: 
+    - year:
       items:
-        - 
-        - 
-    - year: 
+        -
+        -
+    - year:
       items:
-        - 
+        -
 
 - title: Academic Interests
   type: nested_list
