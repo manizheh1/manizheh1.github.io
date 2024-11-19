@@ -8,5 +8,5 @@ related_posts: false
 
 ---
 
-I thank all the co-authors and the reviewers for their valuable feedback. You can read the paper [here](https://dl.acm.org/doi/pdf/10.1145/3652037.3652078) as well as the conference procedings [here](https://dl.acm.org/doi/proceedings/10.1145/3652037). Thank you.
+I thank all the co-authors and the reviewers for their valuable feedback. You can read the paper [here](https://dl.acm.org/doi/pdf/10.1145/3652037.3652078) as well as the conference proceedings [here](https://dl.acm.org/doi/proceedings/10.1145/3652037). Thank you.
 {% include figure.liquid path="assets/img/BestPaperAward.png" class="img-fluid rounded z-depth-1" slot="first" %}
