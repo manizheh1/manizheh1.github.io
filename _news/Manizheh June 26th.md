@@ -8,4 +8,4 @@ related_posts: false
 
 ---
 
-![Best_Paper_Award](assets/img/BestPaperAward.png)
+{% include figure.liquid path="assets/img/BestPaperAward.png" class="img-fluid rounded z-depth-1" slot="first" %}
