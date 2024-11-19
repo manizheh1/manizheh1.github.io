@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Please read my Best Paper Award wining article and give me your feedback!
+title: Please Read My Best Paper Award Wining Article And Give Me Your Feedback!
 date: 2024-10-23 16:11:00-0400
 inline: false
 related_posts: false
