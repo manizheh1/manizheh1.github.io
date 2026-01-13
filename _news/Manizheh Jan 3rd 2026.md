@@ -9,4 +9,4 @@ related_posts: false
 
 ---
 
-I am the new Professor of General Engineering Department of Santa Clara University.
+I am the New Professor of [General Engineering Department](https://www.scu.edu/engineering/academic-programs/general-engineering/faculty-and-staff/) of Santa Clara University. Please contact me [here](https://www.scu.edu/phonebook/33417/Zand-Manizheh).
